@@ -1,0 +1,2 @@
+bu dosyanýn içini projeye kopyala ngformlarda hata veriyor.
+hatalý þekildede pushlayamadým.
